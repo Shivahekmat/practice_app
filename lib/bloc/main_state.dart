@@ -1,0 +1,3 @@
+class MainState {
+  String? name;
+}
