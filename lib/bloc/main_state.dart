@@ -1,0 +1,3 @@
+class MainState {
+  int? number;
+}
