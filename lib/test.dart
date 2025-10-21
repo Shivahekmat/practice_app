@@ -1,1 +1,3 @@
-void sayHello() {}
+void sayHello() {
+  print('');
+}
