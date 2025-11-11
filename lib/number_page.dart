@@ -30,6 +30,7 @@ class _NumberPageState extends State<NumberPage> {
               ),
               FloatingActionButton(
                 onPressed: () {
+                  print("push numper");
                   context.read<NumberCounterCubit>().plusNumber();
                 },
                 child: Icon(Icons.add),
